@@ -6,3 +6,7 @@ The George Washington University
 Instructor: Yassine Benajiba
 
 This is our NLP final project code and report
+
+text_classification.ipynb is our main code
+
+Folder UI implement the user interface
